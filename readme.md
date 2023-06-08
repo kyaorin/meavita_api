@@ -6,7 +6,9 @@
 
 ## 紹介と使い方
 
-  - GoogleカレンダーのスケジュールをWEBブラウザに反映
+  - GoogleカレンダーのスケジュールをWEBブラウザに表示（meavita-api.html）
+
+  - Fullcalendar ✖️ GoogleカレンダーAPIでMonthlyカレンダーをブラウザに表示（api-fullcalendar.html）今ここまで
 
   - 空き時間から個別相談の日時を選択して予約→Googleカレンダーにも反映
 
@@ -19,8 +21,13 @@
 ## 苦戦した点
 
   - ドキュメントの解読が苦行だった
+  
+  - GoogleカレンダーAPIの連携がエラーでまくりで２日かかってようやく表示できた
 
 ## 参考にした web サイトなど
 
-  - GoogleカレンダーのAPIを使ってWebサイトに表示させる方法 
-  https://www.re-d.jp/news/article/9567/
+  - Googleカレンダーをサイトにキレイに埋め込むFullCalendarの使い方
+  https://do.gt-gt.org/use-fullcalendar/
+
+  - FullCalender
+  https://fullcalendar.io/
